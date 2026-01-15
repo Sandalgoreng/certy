@@ -33,6 +33,7 @@ https://docs.google.com/spreadsheets/d/1O3t6eyWgLCNHFf0_iNpOweVDH7jIczd7AS7qxdct
 ## 📸 ER Diagram
 
 ER Diagram digunakan untuk menggambarkan relasi antar tabel dalam database, seperti tabel buku, anggota, admin, dan peminjaman. Diagram ini membantu dalam memahami struktur database serta alur data dalam sistem perpustakaan.
-<img width="610" height="483" alt="image" src="https://github.com/user-attachments/assets/4bad7d3c-2c6a-4f49-9466-91c1a14c4a84" />
+<img width="1536" height="1024" alt="ChatGPT Image Jan 15, 2026, 01_03_09 PM" src="https://github.com/user-attachments/assets/857a64ab-dd6e-4e8c-952f-2ded13ea93e8" />
+
 
 <img width="688" height="640" alt="Screenshot 2026-01-15 121307" src="https://github.com/user-attachments/assets/02cda2e9-22f7-4d85-bd0d-d05580014417" />
