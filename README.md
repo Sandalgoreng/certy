@@ -27,6 +27,9 @@ Teknologi dan tools yang digunakan dalam pembuatan program ini adalah:
 * **Visual Studio:** dengan menggunakan file PHP pada visual studio saya dapat mengatur program yang berjalan di dalamnya
 * **PHPmyadmin:** menggunakan PHPmyadmin untuk menjalankan data basenya
 
+## DOKUMENTASI
+https://docs.google.com/spreadsheets/d/1O3t6eyWgLCNHFf0_iNpOweVDH7jIczd7AS7qxdct1b8/edit?usp=sharing
+
 ## 📸 ER Diagram
 
 ER Diagram digunakan untuk menggambarkan relasi antar tabel dalam database, seperti tabel buku, anggota, admin, dan peminjaman. Diagram ini membantu dalam memahami struktur database serta alur data dalam sistem perpustakaan.
